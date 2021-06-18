@@ -1,0 +1,14 @@
+.header {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: larger;
+}
+h1 {
+  margin-bottom: 6%;
+}
+li {
+  font-size: x-large;
+}
+body {
+  background-color: #f7cac9;
+}
